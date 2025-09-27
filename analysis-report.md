@@ -126,20 +126,14 @@ Though cluster 6 performs high in recency (97), frequency (100), monetary (100) 
 
 ## Recommendations
 
--Personalize based on item preferences:
-Each cluster has preferences toward specific products. We saw cluster 0 bought hygiene and body case, while cluster 1 had preferences towards fresh produce and cheese. Creating campaigns that align with each group’s item of choice is important.
+- Personalize based on item preferences: Each cluster has preferences toward specific products. We saw cluster 0 bought hygiene and body case, while cluster 1 had preferences towards fresh produce and cheese. Creating campaigns that align with each group’s item of choice is important.
 
--Engagement strategies (not just about items but engagement) amd Shopping Days
-These marketed strategies should take into account not just what they buy but how engaged they are.
+- **Engagement strategies and Shopping Days:** These marketed strategies should take into account not just what they buy but how engaged they are.
+     - For **super spending customers** like those seen in cluster 1 and 6, focus on loyalty reinforcement through VIP programs, exclusive deals and early access. 
+     - For **moderately engaged customers** like in clusters 0, 3 and 4, target them with cross-sell opportunities and basket expansion. Consider cross-promoting complementary categories such as snack with beverages, hygiene with other cleaning items, etc.
+    - For **low inactive customers** like in clusters 2 and 5, focus on discounts,  time-limited offers and reactivation campaigns.
 
- For super spending customers like those seen in cluster 1 and 6, focus on loyalty reinforcement through VIP programs, exclusive deals and early access. 
-
-For moderately engaged customers like in clusters 0, 3 and 4, target them with cross-sell opportunities and basket expansion. Consider cross-promoting complementary categories such as snack with beverages, hygiene with other cleaning items, etc.
-
-For low inactive customers like in clusters 2 and 5, focus on discounts,  time-limited offers and reactivation campaigns.
-
--Leverage timing patterns
-Certain clusters shop on specific days. For ex. cluster 2 tends to shop on Thursday. Consider using day-of-week promotions.
+- **Leverage timing patterns:** Certain clusters shop on specific days. For ex. cluster 2 tends to shop on Thursday. Consider using day-of-week promotions.
 
 
 
