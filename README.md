@@ -2,7 +2,7 @@
 
 In this repository, you will find a data analysis project which was inspired by the Market Basket Classification Kaggle competition. Below you can find more information.
 
-For the full report click here
+For the full report [click here](https://github.com/curiostegui/Instacart-customer-segmentation-analysis/blob/main/analysis-report.md) 
 
 To access the Tableau dashboard click here
 
