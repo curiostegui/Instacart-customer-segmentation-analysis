@@ -13,8 +13,9 @@ Segmented customers to understand shopping behaviors and identify targeted strat
 ## Approach
 
 - Analyzed 70,000+ customer orders and product purchased using Python.
-- Applied RFM analysis (Recency, Frequency, Monetary) to measure customer value. Adapted item counts as a proxy for spending value.
 - Performed Principal Component Analysis (PCA) with K-Means clustering to reduce dimensionality and group customers based on their shopping habits.
+- Applied RFM analysis (Recency, Frequency, Monetary) to measure customer value. Adapted item counts as a proxy for spending value.
+- Utilized a decision tree algorithm alongside the RFM values, to improve interpretability of the clustering results and help understand the unique behaviors of each customer profile.
 - Built Dashboard in Tableau to visualize customer segments, top products and department-level insights.
 
 ## Key Insights
