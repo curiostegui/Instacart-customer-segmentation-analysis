@@ -74,6 +74,7 @@ In the bottom 10, there are a lot of non-grocery items and specialty foods.
 
 Decision Tree and RFM (scaled 1-100) results analyzed. Expand on this…
 
+
 ### Cluster 0
 
 Cluster 0 stand outs for their heavy spending on hygiene and body care products such as body lotion, soap and oral hygiene. Analyzing the RFM scores, their recency score (52) suggests moderate engagement. Their frequency score (26) indicates they have less orders than other groups. Their monetary score (22), based on total items purchased, shows their basket is smaller compared to other heavier spending users. To re-engage these users, use targeted promotions around personal care categories,
