@@ -27,6 +27,6 @@ Segmented customers to understand shopping behaviors and identify targeted strat
 Analyzed customer shopping patterns and delivered insights in the form of guided marketing, retention ideas and inventory reccommendations.
  
  
- #### Keywords: Python, Tableau, RFM Analysis, Machine Learning, Clustering, PCA, Customer Segmentation, Data Visualization
+ #### Keywords: Python, Tableau, RFM Analysis, Machine Learning, Decision Tree, Clustering, PCA, Customer Segmentation, Data Visualization
 
  
