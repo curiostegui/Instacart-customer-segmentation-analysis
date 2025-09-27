@@ -1,11 +1,9 @@
 
 ## Introduction
 
-One of the challenges marketers face when navigating customer trends is identifying what moves the needle - what makes a person go from undecided to making a purchase, and then becoming a loyal customer. There are two powerful, commonly used tools at their disposal, RFM analysis and Clustering, which can help summarize customer behavior and identify key aspects to improve outreach.
+One of the challenges marketers face when navigating customer trends is identifying what moves the needle - what makes a person go from undecided to making a purchase, and then becoming a loyal customer. There are a few powerful marketing and machine learning tools that can help.
 
-## Objective
-
-For this project, I will apply these techniques to perform customer segmentation on datasets containing Instacart customer orders. Below you will find the written report.
+In this project, I will apply PCA, K-means clustering and a decision tree model on various datasets containing Instacart customer orders. Below you will find the results of the customer segmentation analysis.
 
 Note: For full code, select “” above. To access the Tableau Dashboard, which visualizes these results click here. 
 
