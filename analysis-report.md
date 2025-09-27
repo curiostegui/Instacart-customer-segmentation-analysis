@@ -42,13 +42,19 @@ In this analysis, the following tools will be used. PCA will help reduce the lar
 
 Sunday and Monday are the most popular days to place orders. Most orders are placed between 9AM and 5PM, with the most activity occurring around 10AM and 2PM. Very few shop late night or early morning before 9AM. 
 
+![](Python-Images/Orders_by_customer.png)<!-- -->
+
 ### Distribution of Orders per Customer
 
 The majority of customers place a have placed a few orders (1-10). This tell us there is very few customers that make repeat purchsess. Retention may be a possible challenge with this customer dataset. 
 
+![](Python-Images/basket_size.png)<!-- -->
+
 ### Basket size
 
 The most common order size is between 5-10 items.A few customers place 20+ items, with some rare outlier customers that order 50+ items. A potential strategy could be to encourage small-basket customers to encourage larger orders.
+
+![](Python-Images/top_bottom_products.png)<!-- -->
 
 ### Top 10 and Bottom 10 Products
 
