@@ -36,27 +36,27 @@ In this analysis, the following tools will be used. PCA will help reduce the lar
 
 ## Data Exploration
 
-![](Python-Images/Order_dis_hour_day.png)<!-- -->
-
 ### Order distribution by day of week and hour of day
+
+![](Python-Images/Order_dis_hour_day.png)<!-- -->
 
 Sunday and Monday are the most popular days to place orders. Most orders are placed between 9AM and 5PM, with the most activity occurring around 10AM and 2PM. Very few shop late night or early morning before 9AM. 
 
-![](Python-Images/Orders_by_customer.png)<!-- -->
-
 ### Distribution of Orders per Customer
+
+![](Python-Images/Orders_by_customer.png)<!-- -->
 
 The majority of customers place a have placed a few orders (1-10). This tell us there is very few customers that make repeat purchsess. Retention may be a possible challenge with this customer dataset. 
 
-![](Python-Images/basket_size.png)<!-- -->
-
 ### Basket size
+
+![](Python-Images/basket_size.png)<!-- -->
 
 The most common order size is between 5-10 items.A few customers place 20+ items, with some rare outlier customers that order 50+ items. A potential strategy could be to encourage small-basket customers to encourage larger orders.
 
-![](Python-Images/top_bottom_products.png)<!-- -->
-
 ### Top 10 and Bottom 10 Products
+
+![](Python-Images/top_bottom_products.png)<!-- -->
 
 Bananas is the most purchased item. Other fruits and vegetables are included among the top 10 purchased items. 
 
@@ -82,33 +82,45 @@ In the bottom 10, there are a lot of non-grocery items and specialty foods.
 
 Decision Tree and RFM (scaled 1-100) results analyzed. Expand on this…
 
-![](Python-Images/Cluster0.png)<!-- -->
-
 ### Cluster 0
+
+![](Python-Images/Cluster0.png)<!-- -->
 
 Cluster 0 stand outs for their heavy spending on hygiene and body care products such as body lotion, soap and oral hygiene. Analyzing the RFM scores, their recency score (52) suggests moderate engagement. Their frequency score (26) indicates they have less orders than other groups. Their monetary score (22), based on total items purchased, shows their basket is smaller compared to other heavier spending users. To re-engage these users, use targeted promotions around personal care categories,
 
 ### Cluster 1
 
+![](Python-Images/Cluster1.png)<!-- -->
+
 Cluster 1 shows a preference towards fresh fruits, vegetables, and packaged cheese.They are near the top in all RFM categories. This group has a recency score of 100, which shows they made a purchase very recent. They score high in frequency and monetary indicating that they buy often and have a high product purchase count.  These customers are consistent buyers that drive high value. To target them, use loyalty strategies such as reward programs, product bundles, and subscription services that reinforce their high engagement.
 
 ### Cluster 2
+
+![](Python-Images/Cluster2.png)<!-- -->
 
 Cluster 2 is characterized by their purchasing patterns around cheese and fresh produce. They also tend to purchase on Thursday. Their RFM scores reveal they are inactive (recency, frequency, and monetary all equal to 0) and have made little to no recent purchases. This group requires reactivation strategies such as campaigns including weekday promotions and discounts on staple items such as cheese and produce.
 
 ### Cluster 3
 
+![](Python-Images/Cluster3.png)<!-- -->
+
 Cluster 3 are snack (cookies, chips, frozen items) lovers. Their RFM profile shows a high recency score (77) which shows they’ve purchased an item fairly recently. Their frequency score (50), and monetary (49)  scores are moderate, which shows they shop and spend at an average level. These customers are active buyers and spend at an average level. Create targeted promotions on snacks, desserts and frozen goods to promote purchase frequency and basket size. A build-a-box feature could also help increase basket size.
 
 ### Cluster 4
+
+![](Python-Images/Cluster4.png)<!-- -->
 
 Cluster 4 customer are veggie-heavy buyers that lean towards fresh and canned produce and packaged vegetables. Looking at their RFM profile, they have a high recency score (76) which shows they’ve made a fairly recent purchase. Their frequency score (49) and monetary (44) scores are moderate which shows that while they shop regularly, their purchase volume and basket size is of moderate size. Encourage subscription options or personalized suggestions to maintain growth.
 
 ### Cluster 5
 
+![](Python-Images/Cluster5.png)<!-- -->
+
 The customers in cluster 5 contain are frequent shoppers of mixed produce and package cheese. They make purchases on Monday. Their RFM profile shows a low recency score (38) meaning they haven’t purchased recently compared to other clusters. Their frequency (18) and monetary scores (17) are also low, indicating low order frequency and small basket size. Re-engage with urgency messaging or reminders tied to restock cycles
 
 ### Cluster 6
+
+![](Python-Images/Cluster6.png)<!-- -->
 
 Though cluster 6 performs high in recency (97), frequency (100), monetary (100) they display odd behavior based on their decision tree results. They have late week activity, in particular around Monday/Tuesday, which separate them from the rest of cluster groups. These are super-shoppers that buy frequently and in very  large quantities. They might be bulk buyers, or enterprise accounts.  
 
