@@ -15,6 +15,15 @@ This dataset is taken from the Kaggle Instacart Market Basket Analysis competiti
 
 ## Variables
 
+The dataset contains customer order information including the user id, the products they've bought, the related aisle, add to cart position, day purchased. There are two challenges at first glance, there are multiple datasets that contain variables of interest and will need to be joined. There is also more than 150 coolumns, which can cause issues like overfitting. We will need to perform dimension reduction through the PCA technique.
+
+- **Aisles:** Has aisle names and their corresponding unique id.
+- **All Order Products:** Has order id and product id for each purchase along with add to cart order of product.
+- **Departments:** Has department name and their corresponding department id.
+- **Orders:** Has information on order including the user who placed the order, day of the week, hour order was placed, and days since last purchase.
+- **Products:** Has information on products including the name, corres
+- **User Features:** Has information on each user's purchasing history on items and the days they've made purchased on.
+
 ## Limitations
 
 **Time granularity:** Outside of the day of the week and time, the dataset does not contain information on month or year. As a result, long-term seasonal patterns can’t be analyzed.
@@ -68,7 +77,7 @@ In the bottom 10, there are a lot of non-grocery items and specialty foods.
 
 **Standardization:** Put all numerical features on the same scale (0-1) to prevent variables with large ranges from dominating clustering. Since clustering uses a distance-based algorithm to create groups, it is susceptible to outliers and therefore needs to be addressed.
 
-**Perform PCA:** Used to reduce the complexity of the data. It’s necessary especially because there are 50+ columns. 
+**Perform PCA:** Used to reduce the complexity of the data. It’s necessary especially because there are 150+ columns. 
 
 ## Modeling
 
