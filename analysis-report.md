@@ -126,7 +126,7 @@ Though cluster 6 performs high in recency (97), frequency (100), monetary (100) 
 
 ## Recommendations
 
-- Personalize based on item preferences: Each cluster has preferences toward specific products. We saw cluster 0 bought hygiene and body case, while cluster 1 had preferences towards fresh produce and cheese. Creating campaigns that align with each group’s item of choice is important.
+- **Personalize based on item preferences:** Each cluster has preferences toward specific products. We saw cluster 0 bought hygiene and body case, while cluster 1 had preferences towards fresh produce and cheese. Creating campaigns that align with each group’s item of choice is important.
 
 - **Engagement strategies and Shopping Days:** These marketed strategies should take into account not just what they buy but how engaged they are.
      - For **super spending customers** like those seen in cluster 1 and 6, focus on loyalty reinforcement through VIP programs, exclusive deals and early access. 
