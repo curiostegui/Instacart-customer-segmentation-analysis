@@ -1,4 +1,4 @@
-## Instacart-customer-segmentation-analysis
+## Instacart Customer Segmentation Analysis
 
 In this repository, you will find a data analysis project which was inspired by the Market Basket Classification Kaggle competition. Below you can find more information.
 
