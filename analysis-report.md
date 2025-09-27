@@ -82,6 +82,7 @@ In the bottom 10, there are a lot of non-grocery items and specialty foods.
 
 Decision Tree and RFM (scaled 1-100) results analyzed. Expand on this…
 
+![](Python-Images/Cluster0.png)<!-- -->
 
 ### Cluster 0
 
