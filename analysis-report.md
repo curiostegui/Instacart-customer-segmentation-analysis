@@ -36,6 +36,8 @@ In this analysis, the following tools will be used. PCA will help reduce the lar
 
 ## Data Exploration
 
+![](Python-Images/Order_dis_hour_day.png)<!-- -->
+
 ### Order distribution by day of week and hour of day
 
 Sunday and Monday are the most popular days to place orders. Most orders are placed between 9AM and 5PM, with the most activity occurring around 10AM and 2PM. Very few shop late night or early morning before 9AM. 
