@@ -32,7 +32,7 @@ The datasets contain customer order information. There are two challenges at fir
 
 ## Methodology
 
-In this analysis, the following tools will be used. PCA will help reduce the large number of variables and will be an important step before applying clustering. Together, clustering and RFM analysis will help uncover distinct customer segments. Below you will find more information.
+In this analysis, the following tools will be used. PCA will help reduce the large number of variables and will be an important step before applying clustering. After performing clustering, RFM analysis and the use of the decision tree model will help interpret what makes each customer unique. Below you will find more information on the alogorithms.
 
 **RFM analysis:** A technique that helps identify valuable customers by assigning them scores in three categories: 
 - Recency: How recently they’ve made a purchase
@@ -42,6 +42,8 @@ In this analysis, the following tools will be used. PCA will help reduce the lar
 **Clustering:** A machine learning technique used to group data based on shared behaviors.
 
 **PCA:** A statistical technique used to reduce the complexity of a dataset into a smaller set.
+
+**Decision Tree:** A supervised machine learning technique that creates a tree-like structure that splits based on the most significant feature at each step. This will help understand what makes each different cluster group different.
 
 ## Data Exploration
 
