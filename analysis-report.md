@@ -15,7 +15,7 @@ This dataset is taken from the Kaggle Instacart Market Basket Analysis competiti
 
 ## Variables
 
-The dataset contains customer order information including the user id, the products they've bought, the related aisle, add to cart position, day purchased. There are two challenges at first glance, there are multiple datasets that contain variables of interest and will need to be joined. There is also more than 150 coolumns, which can cause issues like overfitting. We will need to perform dimension reduction through the PCA technique. Below are the datasets used and its content.
+The dataset contains customer order information including the user id, the products they've bought, the related aisle, add to cart position, day purchased. There are two challenges at first glance, there are multiple datasets that contain variables of interest and will need to be joined. There is also more than 150 columns, which can cause issues like overfitting. We will need to perform dimension reduction through the PCA technique. Below are the datasets used and its content.
 
 - **Aisles:** Has aisle names and their corresponding unique id.
 - **All Order Products:** Has order id and product id for each purchase along with add to cart order of product.
