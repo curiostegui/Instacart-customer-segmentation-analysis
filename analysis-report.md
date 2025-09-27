@@ -91,7 +91,7 @@ In the bottom 10, there are a lot of non-grocery items and specialty foods.
 
 ## Results
 
-Decision Tree and RFM (scaled 1-100) results analyzed. Expand on this…
+K-means clustering was performed and the algorithm generated 7 unique customer profiles. In this section, I will understand these profiles using both the decision tree algorithm, and RFM analysis. These methods will provide behavior context, monitor engage and rate customer value for each group. In addition, I will provide suggestions for how to engage them.
 
 ### Cluster 0
 
