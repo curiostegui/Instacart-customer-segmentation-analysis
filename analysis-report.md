@@ -5,17 +5,17 @@ One of the challenges marketers face when navigating customer trends is identify
 
 ## Objective
 
-For this project, I will apply these techniques to perform customer segmentation on a dataset containing Instacart customer orders. Below you will find the written report.
+For this project, I will apply these techniques to perform customer segmentation on datasets containing Instacart customer orders. Below you will find the written report.
 
 Note: For full code, select “” above. To access the Tableau Dashboard, which visualizes these results click here. 
 
 ## About Dataset
 
-This dataset is taken from the Kaggle Instacart Market Basket Analysis competition. The challenge asked users to predict which previously purchased product will be purchased next by a user. For this analysis, I will be using the same dataset to perform customer segmentation.
+The datasets are taken from the Kaggle Instacart Market Basket Analysis competition. The challenge asked users to predict which previously purchased product will be purchased next by a user. For this analysis, I will be using the same datasets to perform customer segmentation.
 
 ## Variables
 
-The dataset contains customer order information including the user id, the products they've bought, the related aisle, add to cart position, day purchased. There are two challenges at first glance, there are multiple datasets that contain variables of interest and will need to be joined. In addition, There are more than 150 columns, which can cause issues like overfitting. We will need to perform dimension reduction through the PCA technique. Below are the datasets used and their content.
+The datasets contain customer order information. There are two challenges at first glance, there are multiple datasets that contain variables of interest and will need to be joined. In addition, There are more than 150 columns, which can cause issues like overfitting. We will need to perform multiple joins and dimension reduction through the PCA technique. Below are the datasets used and their content.
 
 - **Aisles:** Has aisle names and their corresponding unique id.
 - **All Order Products:** Has order id and product id for each purchase along with add to cart order of product.
