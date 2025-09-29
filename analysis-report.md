@@ -55,7 +55,7 @@ Sunday and Monday are the most popular days to place orders. Most orders are pla
 
 ![](Python-Images/Orders_by_customer.png)<!-- -->
 
-The majority of customers place a have placed a few orders (1-10). This tell us there is very few customers that make repeat purchsess. Retention may be a possible challenge with this customer dataset. 
+The majority of customers place a have placed a few orders (1-10). This tell us there is very few customers that make repeat purchases. Retention may be a possible challenge with this customer dataset. 
 
 ### Basket size
 
