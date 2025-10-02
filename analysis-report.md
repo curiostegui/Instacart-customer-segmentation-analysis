@@ -5,7 +5,7 @@ One of the challenges marketers face when navigating customer trends is identify
 
 In this project, I will apply PCA, K-means clustering and a decision tree model on various datasets containing Instacart customer orders. Below you will find the results of the customer segmentation analysis.
 
-Note: For full code, select “” above. To access the Tableau Dashboard, which visualizes these results click here. 
+Note: For full code, select Instacart_Analysis.py in the main repository. To access the Tableau Dashboard, which visualizes these results click here. 
 
 ## About Dataset
 
