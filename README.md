@@ -8,7 +8,7 @@ To access the Tableau dashboard [click here](https://public.tableau.com/app/prof
 
 ## Objective
 
-Segmented customers to understand shopping behaviors and identify targeted strategies for increased activity.
+Segment customers to understand shopping behaviors and identify targeted strategies for increased activity.
 
 ## Approach
 
